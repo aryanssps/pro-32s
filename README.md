@@ -1,0 +1,1 @@
+This is a game about snake and apples in this snake has to collect apples and score will increase and snake will become big
